@@ -1,0 +1,10 @@
+"./I2C_GPIO_25a.o"
+"./OLED13.o"
+"./OLED_BMP.o"
+"./OLED_Font.o"
+"./empty.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm0g350x_ticlang.o"
+-l"./device_linker.cmd"
+-ldevice.cmd.genlibs
+-llibc.a
