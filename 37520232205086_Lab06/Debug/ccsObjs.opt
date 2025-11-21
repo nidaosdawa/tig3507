@@ -1,0 +1,11 @@
+"./I2C_GPIO_25a.o"
+"./OLED13.o"
+"./OLED_BMP.o"
+"./OLED_Font.o"
+"./lab06_adc.o"
+"./startup_mspm0g350x_ticlang.o"
+"./ti_msp_dl_config.o"
+"../mspm0g3507.cmd"
+-l"D:/03documents/2025/02TIproject/37520232205086_Lab06/iqmath.a"
+-l"D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/lib/ticlang/m0p/mspm0g1x0x_g3x0x/driverlib.a"
+-llibc.a
