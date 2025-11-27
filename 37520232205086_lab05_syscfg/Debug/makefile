@@ -140,7 +140,7 @@ all: $(OBJS) $(GEN_CMDS)
 37520232205086_lab05_syscfg.out: $(OBJS) $(GEN_CMDS)
 	@echo 'Building target: "$@"'
 	@echo 'Invoking: Arm Linker'
-	"D:/01soft/ti/ccs1281/ccs/tools/compiler/ti-cgt-armllvm_3.2.2.LTS/bin/tiarmclang.exe" @"device.opt"  -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O2 -gdwarf-3 -Wl,-m"37520232205086_lab05_syscfg.map" -Wl,-i"D:/01soft/ti/mspm0_sdk_2_06_00_05/source" -Wl,-i"D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg" -Wl,-i"D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/Debug/syscfg" -Wl,-i"D:/01soft/ti/ccs1281/ccs/tools/compiler/ti-cgt-armllvm_3.2.2.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="37520232205086_lab05_syscfg_linkInfo.xml" -Wl,--rom_model -o "37520232205086_lab05_syscfg.out" $(ORDERED_OBJS)
+	"D:/01soft/ti/ccs1281/ccs/tools/compiler/ti-cgt-armllvm_3.2.2.LTS/bin/tiarmclang.exe" @"device.opt"  -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O2 -gdwarf-3 -Wl,-m"37520232205086_lab05_syscfg.map" -Wl,-i"D:/01soft/ti/mspm0_sdk_2_06_00_05/source" -Wl,-i"D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg" -Wl,-i"D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/Debug/syscfg" -Wl,-i"D:/01soft/ti/ccs1281/ccs/tools/compiler/ti-cgt-armllvm_3.2.2.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="37520232205086_lab05_syscfg_linkInfo.xml" -Wl,--rom_model -o "37520232205086_lab05_syscfg.out" $(ORDERED_OBJS)
 	@echo 'Finished building target: "$@"'
 	@echo ' '
 

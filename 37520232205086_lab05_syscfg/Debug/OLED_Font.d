@@ -1,7 +1,7 @@
 # FIXED
 
 OLED_Font.o: ../OLED_Font.c \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_Font.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_Font.h \
  ti_msp_dl_config.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/devices/msp/msp.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/devices/DeviceFamily.h \
@@ -86,7 +86,7 @@ OLED_Font.o: ../OLED_Font.c \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_interrupt.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_systick.h
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_Font.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_Font.h:
 
 ti_msp_dl_config.h:
 

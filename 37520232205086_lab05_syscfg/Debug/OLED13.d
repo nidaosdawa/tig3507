@@ -1,7 +1,7 @@
 # FIXED
 
 OLED13.o: ../OLED13.c \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED13.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED13.h \
  ti_msp_dl_config.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/devices/msp/msp.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/devices/DeviceFamily.h \
@@ -85,10 +85,10 @@ OLED13.o: ../OLED13.c \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/dl_wwdt.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_interrupt.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_systick.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/I2C_GPIO_25a.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_Font.h
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/I2C_GPIO_25a.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_Font.h
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED13.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED13.h:
 
 ti_msp_dl_config.h:
 
@@ -256,6 +256,6 @@ D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_interrupt.h:
 
 D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_systick.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/I2C_GPIO_25a.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/I2C_GPIO_25a.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_Font.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_Font.h:

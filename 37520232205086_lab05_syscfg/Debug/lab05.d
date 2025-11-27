@@ -85,10 +85,10 @@ lab05.o: ../lab05.c \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/dl_wwdt.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_interrupt.h \
  D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_systick.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/stdio.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/I2C_GPIO_25a.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED13.h \
- D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_BMP.h
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/stdio.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/I2C_GPIO_25a.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED13.h \
+ D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_BMP.h
 
 D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/iqmath/include/IQmathLib.h:
 
@@ -258,10 +258,10 @@ D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_interrupt.h:
 
 D:/01soft/ti/mspm0_sdk_2_06_00_05/source/ti/driverlib/m0p/dl_systick.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/stdio.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/stdio.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/I2C_GPIO_25a.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/I2C_GPIO_25a.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED13.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED13.h:
 
-D:/03documents/2025/02TIproject/37520232205086_lab05_syscfg/OLED_BMP.h:
+D:/03documents/2025/02TIproject/RemoteSystemsTempFiles/37520232205086_lab05_syscfg/OLED_BMP.h:
